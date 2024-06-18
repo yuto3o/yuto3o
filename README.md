@@ -1,10 +1,6 @@
-### Hey, Traveler !  👋 
+### Hey, Traveler!  👋 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuto3o&show_icons=true&count_private=true&hide=prs&theme=dark" />
-
-I'm yuyang, yuto3o, or somebody else. 
-
-Now, I'm a PhD candidate comes from ICA, ECNU [@ECNU-ICA](https://github.com/ECNU-ICA). 
+I'm yuyang, a PhD candidate at ICA, ECNU [@ECNU-ICA](https://github.com/ECNU-ICA). 
 
 Currently, my research interests include:
 - Information Extraction 🔧

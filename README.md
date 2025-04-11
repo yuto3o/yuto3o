@@ -1,6 +1,6 @@
 ### Hey, Traveler!  👋 
 
-I'm yuyang, a PhD candidate at ICA, ECNU [@ECNU-ICA](https://github.com/ECNU-ICA). 
+I'm yuyang,
 
 Currently, my research interests include:
 - Information Extraction 🔧
